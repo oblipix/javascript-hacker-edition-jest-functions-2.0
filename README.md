@@ -15,6 +15,9 @@ Esses passos são essenciais para desenvolver um ambiente de trabalho eficiente 
 ##### Essa configuração é uma prática comum no dia a dia de desenvolvedores e te prepara para lidar com projetos desde o início, compreendendo como construir o ecossistema de testes do zero.
 
 #### Desafio: Sistema de Previsão de Estoque de Produtos em uma Loja 
+![Estoque parado nunca mais moderno azul instagram post](https://github.com/user-attachments/assets/9b741993-9c1d-4f82-ae6a-46c597a0e6e8)
+
+
 Você está desenvolvendo um sistema de previsão de estoque para uma loja que vende diferentes tipos de produtos. O objetivo do sistema é prever quando um produto ficará fora de estoque e sugerir uma quantidade adequada para reabastecimento.
 
 ##### Requisitos Funcionais:
